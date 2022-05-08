@@ -1,0 +1,6 @@
+# ignore zip and rar files
+*.zip
+*.rar
+
+# ignore one folder in Assignment 2 Folder
+Assignment_2/Demo
